@@ -35,35 +35,35 @@ The notebook follows the Advanced-level structure required for the internship:
 
 **Dataset overview after cleaning:**
 
-![Dataset overview](images/01_dataset_overview.png)
+![Dataset overview](dataset_overview.png)
 
 **Price distribution:**
 
-![Price distribution](images/02_price_distribution.png)
+![Price distribution](price_distribution.png)
 
 **Operating system distribution:**
 
-![OS distribution](images/03_os_distribution.png)
+![OS distribution](os_distribution.png)
 
 **Country of manufacture:**
 
-![Country of manufacture](images/04_country_pie.png)
+![Country of manufacture](country_pie.png)
 
 **Pairwise relationships between quantitative features:**
 
-![Pairgrid](images/05_pairgrid.png)
+![Pairgrid](pairgrid.png)
 
 **Correlation heatmap:**
 
-![Correlation heatmap](images/06_correlation_heatmap.png)
+![Correlation heatmap](correlation_heatmap.png)
 
 **Price vs. GPU type:**
 
-![Price vs GPU](images/07_price_vs_gpu_boxplot.png)
+![Price vs GPU](price_vs_gpu_boxplot.png)
 
 **Decision tree regression model:**
 
-![Decision tree](images/08_decision_tree.png)
+![Decision tree](decision_tree.png)
 
 ## Key Findings & Recommendations
 
